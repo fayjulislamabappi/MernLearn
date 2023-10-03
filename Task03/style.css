@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SutonnyMJ';
+    src: url('https://www.example.com/fonts/SutonnyMJ.woff2') format('woff2'), url('https://www.example.com/fonts/SutonnyMJ.woff') format('woff');
+}
+
+body {
+    font-family: 'SutonnyMJ', sans-serif;
+}
